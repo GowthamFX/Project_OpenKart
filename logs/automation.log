@@ -92,3 +92,120 @@
 22:54:20.100 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC003_LoginDDT ***** 
 22:54:20.109 [main] INFO  testCases.TC003_LoginDDT - ******* Started TC003_LoginDDT ***** 
 22:54:31.556 [main] INFO  testCases.TC003_LoginDDT - ******* Finished TC003_LoginDDT ***** 
+11:28:38.971 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Gowtham\AppData\Local\Temp\testng-eclipse-1859466886\testng-customsuite.xml"
+11:28:39.760 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+11:28:39.766 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+11:28:39.770 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:28:39.770 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:28:39.771 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:28:39.771 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:28:39.773 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:28:39.773 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:28:39.785 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+11:28:39.818 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 31 ms.
+11:28:39.821 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:28:39.822 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:28:39.825 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:28:39.825 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:28:39.826 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:28:39.826 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:28:39.831 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:28:39.831 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:28:39.832 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:28:39.832 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:28:39.839 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:28:39.839 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:28:39.839 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:28:39.839 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:28:39.842 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:28:39.843 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:28:39.846 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:28:39.847 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:28:39.847 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:28:39.847 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:28:39.866 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Gowtham\AppData\Local\Temp\testng-eclipse-1859466886\testng-customsuite.xml
+
+11:28:39.917 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 11 ms.
+11:28:40.875 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@42257bdd: 359 ms
+11:28:40.925 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@77cf3f8b: 49 ms
+11:28:40.953 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@411341bd: 28 ms
+11:28:40.983 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4d411036: 30 ms
+11:28:40.998 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@352c308: 15 ms
+11:28:40.998 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7d373bcf: 0 ms
+11:29:43.401 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Gowtham\eclipse-workspace\OpenkartV121\testng.xml"
+11:29:43.442 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Gowtham\eclipse-workspace\OpenkartV121\testng.xml] otherwise TestNG may fail or not work as expected.
+11:29:44.286 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Gowtham\eclipse-workspace\OpenkartV121\testng.xml
+
+11:30:13.876 [main] INFO  testCases.TC_AccountRegistrationTest - ***** Starting TC_AccountRegistrationTest *********
+11:30:14.809 [main] INFO  testCases.TC_AccountRegistrationTest - Clicked on MyAccount link ........
+11:30:15.501 [main] INFO  testCases.TC_AccountRegistrationTest - Clicked on Register link .......
+11:30:15.504 [main] INFO  testCases.TC_AccountRegistrationTest - Providing customer detail .....
+11:30:17.830 [main] INFO  testCases.TC_AccountRegistrationTest - Validating expected message
+11:30:18.020 [main] INFO  testCases.TC_AccountRegistrationTest - Logs are Finished..... 
+14:02:50.050 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Gowtham\eclipse-workspace\OpenkartV121\grouping.xml"
+14:02:50.105 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Gowtham\eclipse-workspace\OpenkartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
+14:02:51.159 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Gowtham\eclipse-workspace\OpenkartV121\grouping.xml
+
+14:03:02.086 [main] INFO  testCases.TC_AccountRegistrationTest - ***** Starting TC_AccountRegistrationTest *********
+14:03:02.817 [main] INFO  testCases.TC_AccountRegistrationTest - Clicked on MyAccount link ........
+14:03:04.434 [main] INFO  testCases.TC_AccountRegistrationTest - Clicked on Register link .......
+14:03:04.440 [main] INFO  testCases.TC_AccountRegistrationTest - Providing customer detail .....
+14:03:07.610 [main] INFO  testCases.TC_AccountRegistrationTest - Validating expected message
+14:03:07.775 [main] INFO  testCases.TC_AccountRegistrationTest - Logs are Finished..... 
+14:03:15.665 [main] INFO  testCases.TC002_LoginTest - ******* Started TC002_LoginTest ***** 
+14:03:19.660 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC002_LoginTest ***** 
+14:06:25.430 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Gowtham\eclipse-workspace\OpenkartV121\grouping.xml"
+14:06:25.480 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Gowtham\eclipse-workspace\OpenkartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
+14:06:26.361 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Gowtham\eclipse-workspace\OpenkartV121\grouping.xml
+
+14:06:31.543 [main] INFO  testCases.TC_AccountRegistrationTest - ***** Starting TC_AccountRegistrationTest *********
+14:06:32.600 [main] INFO  testCases.TC_AccountRegistrationTest - Clicked on MyAccount link ........
+14:06:33.361 [main] INFO  testCases.TC_AccountRegistrationTest - Clicked on Register link .......
+14:06:33.366 [main] INFO  testCases.TC_AccountRegistrationTest - Providing customer detail .....
+14:06:35.679 [main] INFO  testCases.TC_AccountRegistrationTest - Validating expected message
+14:06:35.808 [main] INFO  testCases.TC_AccountRegistrationTest - Logs are Finished..... 
+14:06:39.732 [main] INFO  testCases.TC002_LoginTest - ******* Started TC002_LoginTest ***** 
+14:06:42.570 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC002_LoginTest ***** 
+14:29:08.411 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Gowtham\eclipse-workspace\OpenkartV121\grouping.xml"
+14:29:08.468 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Gowtham\eclipse-workspace\OpenkartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
+14:29:09.350 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Gowtham\eclipse-workspace\OpenkartV121\grouping.xml
+
+14:29:16.668 [main] INFO  testCases.TC_AccountRegistrationTest - ***** Starting TC_AccountRegistrationTest *********
+14:29:17.758 [main] INFO  testCases.TC_AccountRegistrationTest - Clicked on MyAccount link ........
+14:29:18.736 [main] INFO  testCases.TC_AccountRegistrationTest - Clicked on Register link .......
+14:29:18.740 [main] INFO  testCases.TC_AccountRegistrationTest - Providing customer detail .....
+14:29:21.202 [main] INFO  testCases.TC_AccountRegistrationTest - Validating expected message
+14:29:21.321 [main] INFO  testCases.TC_AccountRegistrationTest - Logs are Finished..... 
+14:29:25.749 [main] INFO  testCases.TC002_LoginTest - ******* Started TC002_LoginTest ***** 
+14:29:27.841 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC002_LoginTest ***** 
+14:33:19.717 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Gowtham\eclipse-workspace\OpenkartV121\grouping.xml"
+14:33:19.761 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Gowtham\eclipse-workspace\OpenkartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
+14:33:20.619 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Gowtham\eclipse-workspace\OpenkartV121\grouping.xml
+
+14:33:25.927 [main] INFO  testCases.TC_AccountRegistrationTest - ***** Starting TC_AccountRegistrationTest *********
+14:33:26.826 [main] INFO  testCases.TC_AccountRegistrationTest - Clicked on MyAccount link ........
+14:33:27.461 [main] INFO  testCases.TC_AccountRegistrationTest - Clicked on Register link .......
+14:33:27.464 [main] INFO  testCases.TC_AccountRegistrationTest - Providing customer detail .....
+14:33:29.962 [main] INFO  testCases.TC_AccountRegistrationTest - Validating expected message
+14:33:30.055 [main] INFO  testCases.TC_AccountRegistrationTest - Logs are Finished..... 
+14:33:34.535 [main] INFO  testCases.TC002_LoginTest - ******* Started TC002_LoginTest ***** 
+14:33:37.206 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC002_LoginTest ***** 
+14:38:57.913 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Gowtham\eclipse-workspace\OpenkartV121\grouping.xml"
+14:38:57.952 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Gowtham\eclipse-workspace\OpenkartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
+14:38:59.107 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Gowtham\eclipse-workspace\OpenkartV121\grouping.xml
+
+14:39:06.041 [main] INFO  testCases.TC_AccountRegistrationTest - ***** Starting TC_AccountRegistrationTest *********
+14:39:06.907 [main] INFO  testCases.TC_AccountRegistrationTest - Clicked on MyAccount link ........
+14:39:07.850 [main] INFO  testCases.TC_AccountRegistrationTest - Clicked on Register link .......
+14:39:07.853 [main] INFO  testCases.TC_AccountRegistrationTest - Providing customer detail .....
+14:39:09.390 [main] INFO  testCases.TC_AccountRegistrationTest - Validating expected message
+14:39:10.095 [main] INFO  testCases.TC_AccountRegistrationTest - Logs are Finished..... 
+14:39:14.370 [main] INFO  testCases.TC002_LoginTest - ******* Started TC002_LoginTest ***** 
+14:39:17.006 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC002_LoginTest ***** 
